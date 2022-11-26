@@ -1,0 +1,13 @@
+body{
+margin:0;
+padding:0;
+height:500px;
+width:350px;
+background:blue;
+color:green;
+} 
+.box{
+height:100px;
+width:100px;
+background-color:green;
+}
